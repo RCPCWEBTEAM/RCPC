@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rcpc-nine.vercel.app</id>
+    <title>ROBLOX中国玩家营地 官网</title>
+    <updated>2024-11-03T05:03:45.052Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rcpc-nine.vercel.app"/>
+    <link rel="self" href="https://rcpc-nine.vercel.app/atom.xml"/>
+    <subtitle>中国人民站起来了！</subtitle>
+    <logo>https://rcpc-nine.vercel.app/images/avatar.png</logo>
+    <icon>https://rcpc-nine.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2024, ROBLOX中国玩家营地 官网</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://rcpc-nine.vercel.app/test/</id>
+        <link href="https://rcpc-nine.vercel.app/test/">
+        </link>
+        <updated>2024-11-03T05:02:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>test</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>test</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到这里！🥳]]></title>
+        <id>https://rcpc-nine.vercel.app/RCPC1/</id>
+        <link href="https://rcpc-nine.vercel.app/RCPC1/">
+        </link>
+        <updated>2024-11-03T00:50:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是一个RCPC自发搭建的完全自主权官网👏<br>
+我们正在脱离他人科技依赖！😉</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一个RCPC自发搭建的完全自主权官网👏<br>
+我们正在脱离他人科技依赖！😉</p>
+<!-- more -->
+<p>在这里---------<br>
+你可以和成员愉快地交流游戏⚔️<br>
+你可以与许多robloxUp沟通时事📺📻<br>
+你可以了解到roblox最新的新闻📊📅<br>
+如果你也是up，欢迎你与我们一起合作互助🔮</p>
+<!-- more -->
+<p><a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=qwgb3nkGcgsiBRG0YVuU-q-pWsVXC6v6&amp;authKey=pDQgh5Vnto0ArSTPOZXsdcdQZUTTvB96ZO7H6vrOJbL4I%2Faal%2BwhP08vF1LIiD9N&amp;noverify=0&amp;group_code=764911288">ROBLOX中国玩家营地官方群聊</a><br>
+<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=jO3x81JiRftKgoUmJfaMuP0xtxiMuh4v&amp;authKey=Rkxp%2FOU99cKzFT6PAJ7eMoEDYScMhqYzFJlrRl0Wj6s6Ku0VcjuDBugTApUqVuCH&amp;noverify=0&amp;group_code=282738522">官方合作伙伴-BLOX属性同好会</a></p>
+<!-- more -->
+<p>如果你想发布自己的文章想法请这样做<br>
+方法①:找官方群内管理纸风车<br>
+方法②:发邮箱给rcpcrcpc@163.com<br>
+<img src="https://rcpc-nine.vercel.app/post-images/1730596979249.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
